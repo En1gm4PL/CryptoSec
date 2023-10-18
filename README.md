@@ -8,6 +8,8 @@ I'm currently working on making the project an API! - with good results.
 Contact: ostrowski99@protonmail.com
 # TOOL
 A tool for encrypting and decrypting algorithms such as: AES, RSA, symmetric keys, Ed25519, X.509 certificates, etc. possibility of creating a symmetric key with any entropy and salting! generating key pairs for Ed25519, generating certificates and keys for RSA (key length can be set)
+
+
 ![en](https://github.com/En1gm4PL/CryptoSec/assets/147084979/a61584d5-2436-4880-bf06-8b43517e80e4)
 
 
